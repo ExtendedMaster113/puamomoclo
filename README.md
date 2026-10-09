@@ -1,4 +1,4 @@
-# Momoiro Clover Z Symbols Supplement and Extended-A
+# Momoiro Clover Z Symbols PUA
 
 **Creator:** Stardust Promotion
 <br>
