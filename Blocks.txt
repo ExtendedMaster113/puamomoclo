@@ -1,2 +1,3 @@
 F3700..F371F; Momoiro Clover Z Symbols
+F3720..F37FF; Momoiro Clover Z Symbols Supplement
 F3BE0..F3BEF; Momoiro Clover Z Symbols Extended-A
